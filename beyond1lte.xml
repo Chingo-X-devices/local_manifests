@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+  <project name="universal9820/android_device_samsung_beyond1lte" path="device/samsung/beyond1lte" remote="github" revision="lineage-17.1" />
+  <project name="universal9820/android_device_samsung_universal9820-common" path="device/samsung/universal9820-common" remote="github" revision="lineage-17.1" />
+  <project name="universal9820/android_kernel_samsung_universal9820" path="kernel/samsung/universal9820" remote="github" revision="lineage-17.1" />
+  <project name="universal9820/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1" />
+</manifest>
